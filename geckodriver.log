@@ -1,0 +1,859 @@
+1752417235463	geckodriver	INFO	Listening on 127.0.0.1:59919
+1752417235977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "37319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJaGIB6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752417237259	Marionette	INFO	Marionette enabled
+1752417237441	Marionette	INFO	Listening on port 45743
+WebDriver BiDi listening on ws://127.0.0.1:37319
+Read port: 45743
+1752417237693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752417251077	Marionette	INFO	Stopped listening on port 45743
+1752417967211	geckodriver	INFO	Listening on 127.0.0.1:36453
+1752417967236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "50567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqV1DS0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752417968321	Marionette	INFO	Marionette enabled
+1752417968484	Marionette	INFO	Listening on port 38103
+WebDriver BiDi listening on ws://127.0.0.1:50567
+Read port: 38103
+1752417968773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://notification.alibaba.com/notification.do?callback=jQuery183038015086226702166_1752417973001&dmtrack_pageid=67d7eda321033dd51752417971&_=1752417976700, line 3: TypeError: jQuery183038015086226702166_1752417973001 is not a function
+1752417987950	Marionette	INFO	Stopped listening on port 38103
+1752418579247	geckodriver	INFO	Listening on 127.0.0.1:39863
+1752418579763	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "35995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileryBeCk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752418583036	Marionette	INFO	Marionette enabled
+1752418583394	Marionette	INFO	Listening on port 45039
+WebDriver BiDi listening on ws://127.0.0.1:35995
+Read port: 45039
+1752418583770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752418599107	Marionette	INFO	Stopped listening on port 45039
+1752418609218	geckodriver	INFO	Listening on 127.0.0.1:56683
+1752418609245	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "39093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLEvX6S"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752418610860	Marionette	INFO	Marionette enabled
+1752418611073	Marionette	INFO	Listening on port 41507
+WebDriver BiDi listening on ws://127.0.0.1:39093
+Read port: 41507
+1752418611367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752418626717	Marionette	INFO	Stopped listening on port 41507
+1752419012111	geckodriver	INFO	Listening on 127.0.0.1:43071
+1752419012127	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "56621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeboPEi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752419015037	Marionette	INFO	Marionette enabled
+1752419015585	Marionette	INFO	Listening on port 39623
+WebDriver BiDi listening on ws://127.0.0.1:56621
+Read port: 39623
+1752419015927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752419030860	Marionette	INFO	Stopped listening on port 39623
+1752419143513	geckodriver	INFO	Listening on 127.0.0.1:37101
+1752419143535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "41027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV2RZPK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752419144500	Marionette	INFO	Marionette enabled
+1752419144672	Marionette	INFO	Listening on port 39413
+WebDriver BiDi listening on ws://127.0.0.1:41027
+Read port: 39413
+1752419144947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752419159150	Marionette	INFO	Stopped listening on port 39413
+1752419819950	geckodriver	INFO	Listening on 127.0.0.1:50783
+1752419819971	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "37499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC0BEWC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752419822467	Marionette	INFO	Marionette enabled
+1752419822887	Marionette	INFO	Listening on port 42841
+WebDriver BiDi listening on ws://127.0.0.1:37499
+Read port: 42841
+1752419823246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752419949385	geckodriver	INFO	Listening on 127.0.0.1:53973
+1752419949891	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "54249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMSpxdf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752419953889	Marionette	INFO	Marionette enabled
+1752419954380	Marionette	INFO	Listening on port 46011
+Read port: 46011
+WebDriver BiDi listening on ws://127.0.0.1:54249
+1752419954512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1752420096801	geckodriver	INFO	Listening on 127.0.0.1:35199
+1752420097305	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "38995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileabPsDM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752420100567	Marionette	INFO	Marionette enabled
+1752420101105	Marionette	INFO	Listening on port 37091
+Read port: 37091
+WebDriver BiDi listening on ws://127.0.0.1:38995
+1752420101220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752420243424	geckodriver	INFO	Listening on 127.0.0.1:51089
+1752420243430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "41733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletVumgv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752420244013	Marionette	INFO	Marionette enabled
+1752420244127	Marionette	INFO	Listening on port 40883
+Read port: 40883
+WebDriver BiDi listening on ws://127.0.0.1:41733
+1752420244194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752422979866	geckodriver	INFO	Listening on 127.0.0.1:59745
+1752422980368	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "45623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOu0yEX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752422983557	Marionette	INFO	Marionette enabled
+1752422983990	Marionette	INFO	Listening on port 39309
+WebDriver BiDi listening on ws://127.0.0.1:45623
+Read port: 39309
+1752422984349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6137
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752423142245	geckodriver	INFO	Listening on 127.0.0.1:51225
+1752423142251	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "48445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekBsIUI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752423142820	Marionette	INFO	Marionette enabled
+1752423142920	Marionette	INFO	Listening on port 40861
+WebDriver BiDi listening on ws://127.0.0.1:48445
+Read port: 40861
+1752423143101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6137
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1752423689085	geckodriver	INFO	Listening on 127.0.0.1:54525
+1752423689603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "36295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7zuL3O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752423690394	Marionette	INFO	Marionette enabled
+1752423690512	Marionette	INFO	Listening on port 39533
+WebDriver BiDi listening on ws://127.0.0.1:36295
+Read port: 39533
+1752423690710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6137
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752423792384	geckodriver	INFO	Listening on 127.0.0.1:50975
+1752423792390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "53341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKzzMhX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752423793072	Marionette	INFO	Marionette enabled
+1752423793205	Marionette	INFO	Listening on port 43649
+WebDriver BiDi listening on ws://127.0.0.1:53341
+Read port: 43649
+1752423793400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://notification.alibaba.com/notification.do?callback=jQuery18309042421552332416_1752423796507&dmtrack_pageid=67d7eda321410d5a1752423795&_=1752423800298, line 3: TypeError: jQuery18309042421552332416_1752423796507 is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6137
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752423921315	geckodriver	INFO	Listening on 127.0.0.1:41147
+1752423921321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "33799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyUeJo3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752423922022	Marionette	INFO	Marionette enabled
+1752423922145	Marionette	INFO	Listening on port 34185
+WebDriver BiDi listening on ws://127.0.0.1:33799
+Read port: 34185
+1752423922378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752424034179	geckodriver	INFO	Listening on 127.0.0.1:47203
+1752424034185	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "44309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYPRmVm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424034792	Marionette	INFO	Marionette enabled
+1752424034912	Marionette	INFO	Listening on port 44953
+WebDriver BiDi listening on ws://127.0.0.1:44309
+Read port: 44953
+1752424035111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752424105578	geckodriver	INFO	Listening on 127.0.0.1:39321
+1752424105585	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "42179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTbQK8j"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424106218	Marionette	INFO	Marionette enabled
+1752424106322	Marionette	INFO	Listening on port 38109
+WebDriver BiDi listening on ws://127.0.0.1:42179
+Read port: 38109
+1752424106515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752424167700	geckodriver	INFO	Listening on 127.0.0.1:59723
+1752424167708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "43015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile41cqBO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424168332	Marionette	INFO	Marionette enabled
+1752424168432	Marionette	INFO	Listening on port 36349
+WebDriver BiDi listening on ws://127.0.0.1:43015
+Read port: 36349
+1752424168651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752424284082	geckodriver	INFO	Listening on 127.0.0.1:57417
+1752424284088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "49053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKkDQB7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424284715	Marionette	INFO	Marionette enabled
+1752424284820	Marionette	INFO	Listening on port 36539
+WebDriver BiDi listening on ws://127.0.0.1:49053
+Read port: 36539
+1752424285015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752424361002	geckodriver	INFO	Listening on 127.0.0.1:49549
+1752424361008	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "34005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerRwP7j"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424361692	Marionette	INFO	Marionette enabled
+1752424361814	Marionette	INFO	Listening on port 39957
+WebDriver BiDi listening on ws://127.0.0.1:34005
+Read port: 39957
+1752424362024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752424529672	geckodriver	INFO	Listening on 127.0.0.1:37751
+1752424530190	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "35641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebJSSgD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424533930	Marionette	INFO	Marionette enabled
+1752424534405	Marionette	INFO	Listening on port 36557
+WebDriver BiDi listening on ws://127.0.0.1:35641
+Read port: 36557
+1752424534801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+1752424694279	geckodriver	INFO	Listening on 127.0.0.1:45419
+1752424694787	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "51335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewN010X"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424697774	Marionette	INFO	Marionette enabled
+1752424698177	Marionette	INFO	Listening on port 38837
+Read port: 38837
+WebDriver BiDi listening on ws://127.0.0.1:51335
+1752424698293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752424787924	geckodriver	INFO	Listening on 127.0.0.1:34365
+1752424787930	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "35889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekI0Bou"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752424788521	Marionette	INFO	Marionette enabled
+1752424788665	Marionette	INFO	Listening on port 42817
+WebDriver BiDi listening on ws://127.0.0.1:35889
+Read port: 42817
+1752424788857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752425067309	geckodriver	INFO	Listening on 127.0.0.1:42093
+1752425067313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "41725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8Ps4c4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752425067917	Marionette	INFO	Marionette enabled
+1752425068173	Marionette	INFO	Listening on port 42837
+WebDriver BiDi listening on ws://127.0.0.1:41725
+Read port: 42837
+1752425068358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752425820084	geckodriver	INFO	Listening on 127.0.0.1:36963
+1752425820584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "39461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2rEw6Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752425821341	Marionette	INFO	Marionette enabled
+1752425821478	Marionette	INFO	Listening on port 43943
+Read port: 43943
+WebDriver BiDi listening on ws://127.0.0.1:39461
+1752425821565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+d@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6009
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6170
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+1752426074523	geckodriver	INFO	Listening on 127.0.0.1:58709
+1752426075039	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "41043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewsEUFI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752426076558	Marionette	INFO	Marionette enabled
+1752426076748	Marionette	INFO	Listening on port 39641
+WebDriver BiDi listening on ws://127.0.0.1:41043
+Read port: 39641
+1752426076996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+l@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:730
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6182
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1752426266148	geckodriver	INFO	Listening on 127.0.0.1:54445
+1752426266154	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "44581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler3HiFN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752426266891	Marionette	INFO	Marionette enabled
+1752426267002	Marionette	INFO	Listening on port 32891
+WebDriver BiDi listening on ws://127.0.0.1:44581
+Read port: 32891
+1752426267189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+1752426434982	geckodriver	INFO	Listening on 127.0.0.1:56345
+1752426434987	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... ss" "--remote-debugging-port" "45435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileruQz4c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1752426435644	Marionette	INFO	Marionette enabled
+1752426435749	Marionette	INFO	Listening on port 39355
+WebDriver BiDi listening on ws://127.0.0.1:45435
+Read port: 39355
+1752426435940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://i.alicdn.com/sc-header/20180320114014/dist/header.js, line 10: unreachable code after return statement
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://aeis.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.alicdn.com/@g/b2b-sc/rfqaisn/0.0.139/supplier/list/index.js, line 1: TypeError: window.goldlog.spm_ab is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://is.alicdn.com/js/6v/biz/common/store-proxy/store-proxy2.html?iframe_delete=true, line 17: TypeError: t.slice is not a function
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1RLALrxI62JXl6kMRUfyF7hrZZ0egdfqGMQ6-j0vZ3np_3OZPK_oDs2W6P3vE5ATI&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js, line 1: Script terminated by timeout at:
+k@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:6137
+i@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:13185
+w/<@https://g.alicdn.com/secdev/sufei_data/3.9.14/index.js:1:15113
+
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID16QAT8MojlF1Uru56ZmVMAmmyoBuWx3x4NWvpLMVUE639Gx5JhxXpz17QZ5f_9OAU&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID16QAT8MojlF1Uru56ZmVMAhizPN7i57phYfc-Z9po6x68GEpHmyu8TUasaG0nDs6S&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1KyrE25E40_NxMSJjJ34XzT51MFNcgthg2FdBIAgM0DwmOXTN7LT4DqVG8D_YOUOh&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID11PggaN7cPKIpGwG3HhcCuZ96jucibrIR66pi5UsKuiWCpJsM8S6eajmNmJVTXTU4&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1MVvyjBApyTIsS95gXTkvAHaWJZZ31EodH79LBbIkI9Wi87cuLS9QiDoGe9eAXcmb&language=ar_AR&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1MVvyjBApyTIsS95gXTkvAD6dQdUUW1GUYSOzw3IkAfSebdLXsK9WNmvYuE-efVt-&language=ar_AR&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1acnkKxR8HdbRfFqsJwy7cPoM8uOVde5w21s0eGu5YDHLZD_rbibwmB37JsthRx5A&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1acnkKxR8HdbRfFqsJwy7cOBE20J425DkdSV1bHLz3bLAUu4TqAtCWmh5rkT1WrKV&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1acnkKxR8HdbRfFqsJwy7cHIcmOfHVbty9e-fGSBP3Vyj0dtAOGtOjbb2DBULwgpS&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1eVcW7TNcCYHGtFZ5gBMnW9Ie0uqkaqtX62ZsFtPVL4LPSGKl0dTtJLYYJkVISLi_&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1-GJ_WGxEbRspESyxIwUp8PkuEJa-qoDmzWLm2YYjOfLrtCd-WWQ8QbIoTKJ8idpl&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1-GJ_WGxEbRspESyxIwUp8P1iomkTeY0cFnpxMvS5rT8BjUZHE8PAb0ZIXTtATI5G&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1-GJ_WGxEbRspESyxIwUp8K6IRomKA1PLDt_sESgBC52B4StbwNX82HMQ6dmoGg6P&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1r5n48PXm1U6l9sysDy0fiGDZV5IYiWvDINy6XKpBKhPu14oZufSWzRdfSxSORNRr&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1r5n48PXm1U6l9sysDy0fiKC239uZaerM_aqPyQQ3ElnmU1g6dxPRMlA9kKaTCbb1&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1r5n48PXm1U6l9sysDy0fiAM89p5kXulNkuFwcy93D1Gxq-1lKd1tLSClzbVeVcZ8&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1_nDezVAc1ONBx4673p622c7vCCXwEyJR2pFNWNTfkjgV9kZBTb1UaU-R51ZduEkI&language=ar_AR&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID1_nDezVAc1ONBx4673p622azdmotnVywQWI1PwtpgvBmqE2I5G2yjU9ZN1bVN5-D9&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sourcing.alibaba.com/rfq_detail.htm?p=ID14AvguhMAVyNRqoN687jVbTdzcjiC3I8lKNME_zsB0tb9YeCV8x_atEDOzHRCRewc&uuid=b3621d8e-a6c4-414b-847e-7a7f0aa58396&tracelog=sourcing_list_subject, line 39: TypeError: document.body is null
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.83.8/et_f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
