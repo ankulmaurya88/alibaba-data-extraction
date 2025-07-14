@@ -19,7 +19,7 @@ This repository contains a powerful and customizable web scraping tool built wit
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.12**
 - **Selenium WebDriver**
 - **BeautifulSoup4**
 - **Pandas**
